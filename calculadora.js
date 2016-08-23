@@ -12,7 +12,7 @@ buttonMedia.onclick = function(){
 			var fin = (50 - 6*media)/4;
 			alert("Voce precisa na final de: " + fin);
 		}else{
-			alert("O sluno esta aprovado");
+			alert("O aluno esta aprovado");
 		}
 	}
 }
